@@ -29,10 +29,3 @@ This is a simple implementation of the classic Tic-Tac-Toe game built with React
 5. **Array Manipulation**: The project required manipulating arrays (i.e., squares and move history) to update the game state and track changes over time.
    
 6. **Component Composition**: By combining multiple smaller components like `Square`, `Board`, and `Game`, I learned how to build a functional app with React using reusable building blocks.
-
-## How to Run the Project
-
-1. Clone this repository to your local machine.
-   ```bash
-   git clone https://github.com/yourusername/tic-tac-toe-react.git
-
